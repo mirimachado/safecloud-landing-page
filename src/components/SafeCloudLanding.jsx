@@ -12,37 +12,37 @@ const SafeCloudBilingual = () => {
       nav: {
         features: "Recursos",
         architecture: "Arquitetura",
-        about: "Sobre o Projeto",
+        about: "Sobre o projeto",
         contact: "Contato"
       },
       hero: {
-        status: "Em desenvolvimento • Q2 2025",
+        status: "Em desenvolvimento • Q2 2026",
         title: "Plataforma de Segurança Corporativa",
-        description: "Elimine a complexidade da segurança digital com uma solução unificada. Gerenciamento inteligente de credenciais, cofre digital para documentos críticos e automação completa de compliance LGPD - tudo em uma única plataforma projetada especificamente para empresas brasileiras que levam segurança a sério.",
-        cta: "Garantir Acesso Antecipado",
+        description: "Elimine a complexidade da segurança digital com uma solução unificada. Um projeto profissional em desenvolvimento focado na criação de uma plataforma unificada de segurança corporativa. Combinando gerenciamento de credenciais, cofre digital e compliance LGPD em uma arquitetura moderna e escalável.",
+        cta: "Saiba mais sobre o projeto",
         features: ["Zero Trust", "LGPD Ready", "Open Source"],
         featuresSub: ["Arquitetura Blindada", "100% Conforme", "Código Aberto"]
       },
       problem: {
-        title: "Por Que Sua Empresa Ainda Está Vulnerável?",
-        description: "A realidade é preocupante: 73% das empresas brasileiras sofreram algum tipo de violação de dados nos últimos 2 anos. O problema não é falta de ferramentas - é o caos de ferramentas desconectadas, senhas fracas espalhadas por toda organização e processos de compliance que consomem semanas de trabalho manual.",
+        title: "Por que este projeto?",
+        description: "Como desenvolvedora com anseio voltado para a área de segurança da informação, venho me interessado pelos desafios técnicos da segurança digital. Este projeto é minha exploração prática de como construir uma plataforma de segurança moderna, utilizando as melhores práticas de desenvolvimento e arquitetura que estou aprendendo.",
         items: [
-          "Caos de Ferramentas Desconectadas",
-          "Pontos Cegos de Segurança Críticos", 
-          "Horas Desperdiçadas em Compliance Manual"
+          "Caos de ferramentas desconectadas",
+          "Pontos cegos de segurança críticos", 
+          "Horas desperdiçadas em compliance manual"
         ],
         itemsDesc: [
-          "Suas equipes usam 15+ ferramentas diferentes para gerenciar segurança, criando lacunas e inconsistências perigosas.",
+          "Suas equipes usam diversas ferramentas diferentes para gerenciar segurança, criando lacunas e inconsistências.",
           "Você não sabe quem tem acesso ao quê, quando acessou pela última vez, ou se credenciais comprometidas ainda estão ativas.",
-          "Sua equipe gasta 40+ horas por mês compilando relatórios de compliance manualmente, tempo que poderia ser usado para crescer o negócio."
+          "Sua equipe gasta horas por mês compilando relatórios de compliance manualmente, tempo que poderia ser usado para crescer o negócio."
         ]
       },
       about: {
-        title: "Sobre o Projeto",
-        description: "Um projeto pessoal que nasceu da frustração real com soluções de segurança corporativa caras, complexas e que não atendem empresas brasileiras",
-        story: "Como desenvolvedor sênior com 8+ anos criando sistemas críticos, sempre me incomodou a complexidade desnecessária das soluções de segurança existentes. Gastei milhares de horas implementando sistemas que custam R$ 50.000+/ano, são complexos demais para equipes pequenas e não consideram as particularidades do mercado brasileiro - como compliance LGPD específica e necessidades de empresas em crescimento.",
-        mission: "Minha missão é clara: criar a ferramenta de segurança corporativa que eu gostaria de ter usado nos últimos 8 anos. Poderosa o suficiente para enterprises, simples o suficiente para startups, transparente o suficiente para CTOs dormirem tranquilos, e acessível o suficiente para não quebrar o orçamento de tecnologia.",
-        tech: "Stack Técnica Robusta",
+        title: "Sobre o projeto",
+        description: "Um projeto de desenvolvimento de plataforma de segurança corporativa, focado em simplificar a gestão de segurança para empresas.",
+        story: "Objetivo: Demonstrar capacidade técnica através da construção de um sistema complexo de segurança, explorando desde a arquitetura do banco de dados até a implementação de criptografia end-to-end e integração com serviços AWS.",
+        mission: "Minha missão é clara: criar a ferramenta de segurança corporativa robusta o suficiente para enterprises, simples o suficiente para startups, transparente o suficiente para CTOs, e acessível o suficiente para o orçamento de tecnologia.",
+        tech: "Stack Técnica",
         contact: "Entre em Contato",
         whyTrust: "Por Que Confiar em Mim?",
         credentials: [
@@ -53,9 +53,9 @@ const SafeCloudBilingual = () => {
         ]
       },
       cta: {
-        title: "Programa de Acesso Antecipado - Vagas Limitadas",
-        description: "Estou trabalhando diretamente com apenas 20 empresas selecionadas para co-criar a plataforma perfeita. Essas empresas parceiras terão acesso gratuito por 12 meses, influência direta no roadmap do produto, e suporte direto comigo durante toda implementação. Em troca, preciso do seu feedback honesto e alguns estudos de caso.",
-        disclaimer: "Sem compromisso • Processo de seleção rigoroso • Resposta garantida em 24h",
+        title: "Interessado no projeto?",
+        description: "Se você é recrutador, CTO ou desenvolvedor interessado em discutir aspectos técnicos deste projeto, ficarei feliz em compartilhar mais detalhes sobre a arquitetura, decisões de design ou processo de desenvolvimento.",
+        disclaimer: "Projeto em desenvolvimento ativo • Código disponível no GitHub",
         benefits: "O que você ganha sendo empresa parceira:",
         benefitsList: [
           "12 meses de acesso gratuito (valor estimado R$ 12.000)",
@@ -70,37 +70,37 @@ const SafeCloudBilingual = () => {
       nav: {
         features: "Features",
         architecture: "Architecture", 
-        about: "About Project",
+        about: "About project",
         contact: "Contact"
       },
       hero: {
         status: "In development • Q2 2025",
-        title: "Enterprise Security Platform That Actually Works",
-        description: "Eliminate digital security complexity with one unified solution. Smart credential management, secure digital vault for critical documents, and complete LGPD compliance automation - all in a single platform designed specifically for Brazilian companies that take security seriously.",
-        cta: "Secure Early Access",
+        title: "Enterprise Security Platform",
+        description: "Eliminate digital security complexity with one unified solution. Smart credential management, secure digital vault for critical documents, and complete LGPD compliance automation. A personal project under development focused on creating a unified corporate security platform. Combining credential management, a digital vault, and LGPD compliance in a modern, scalable architecture.",
+        cta: "Learn more about the project",
         features: ["Zero Trust", "LGPD Ready", "Open Source"],
         featuresSub: ["Bulletproof Architecture", "100% Compliant", "Open Source"]
       },
       problem: {
-        title: "Why Is Your Company Still Vulnerable?",
-        description: "The reality is concerning: 73% of Brazilian companies suffered some type of data breach in the last 2 years. The problem isn't lack of tools - it's chaos of disconnected tools, weak passwords scattered throughout the organization, and compliance processes that consume weeks of manual work.",
+        title: "Why this project?",
+        description: "As a developer with a passion for information security, I've been interested in the technical challenges of digital security. This project is my hands-on exploration of how to build a modern security platform, leveraging the development and architectural best practices I'm learning.",
         items: [
-          "Chaos of Disconnected Tools",
-          "Critical Security Blind Spots",
-          "Hours Wasted on Manual Compliance"
+          "Chaos of disconnected tools",
+          "Critical security blind spots",
+          "Hours wasted on manual compliance"
         ],
         itemsDesc: [
-          "Your teams use 15+ different tools to manage security, creating dangerous gaps and inconsistencies.",
+          "Your teams use different tools to manage security, creating dangerous gaps and inconsistencies.",
           "You don't know who has access to what, when they last accessed it, or if compromised credentials are still active.",
-          "Your team spends 40+ hours per month manually compiling compliance reports, time that could be used to grow the business."
+          "Your team spends hours per month manually compiling compliance reports, time that could be used to grow the business."
         ]
       },
       about: {
         title: "About the Project",
-        description: "A personal project born from real frustration with expensive, complex corporate security solutions that don't serve Brazilian companies",
-        story: "As a senior developer with 8+ years building critical systems, I've always been bothered by the unnecessary complexity of existing security solutions. I spent thousands of hours implementing systems that cost $10,000+/year, are too complex for small teams, and don't consider Brazilian market particularities - like specific LGPD compliance and growing company needs.",
-        mission: "My mission is clear: create the corporate security tool I wish I had used in the last 8 years. Powerful enough for enterprises, simple enough for startups, transparent enough for CTOs to sleep well, and affordable enough to not break the technology budget.",
-        tech: "Robust Tech Stack",
+        description: "A corporate security platform development project focused on simplifying security management for companies.",
+        story: "Objective: Demonstrate technical capability by building a complex security system, exploring everything from database architecture to implementing end-to-end encryption and integrating with AWS services.",
+        mission: "My mission is clear: to create a corporate security tool that's robust enough for enterprises, simple enough for startups, transparent enough for CTOs, and affordable enough for the tech budget.",
+        tech: "Tech Stack",
         contact: "Get in Touch",
         whyTrust: "Why Trust Me?",
         credentials: [
@@ -111,9 +111,9 @@ const SafeCloudBilingual = () => {
         ]
       },
       cta: {
-        title: "Early Access Program - Limited Spots",
-        description: "I'm working directly with only 20 selected companies to co-create the perfect platform. These partner companies will have free access for 12 months, direct influence on the product roadmap, and direct support from me during the entire implementation. In return, I need your honest feedback and some case studies.",
-        disclaimer: "No commitment • Rigorous selection process • Guaranteed response in 24h",
+        title: "Interested in the project?",
+        description: "If you're a recruiter, CTO, or developer interested in discussing the technical aspects of this project, I'd be happy to share more details about the architecture, design decisions, or development process.",
+        disclaimer: "Project in active development • Code available on GitHub",
         benefits: "What you get as a partner company:",
         benefitsList: [
           "12 months free access (estimated value $2,400)",
@@ -132,25 +132,25 @@ const SafeCloudBilingual = () => {
     {
       id: 'passwords',
       icon: <Lock className="w-6 h-6" />,
-      title: language === 'pt' ? "Cofre Digital de Credenciais" : "Digital Credential Vault",
+      title: language === 'pt' ? "Cofre digital de credenciais" : "Digital credential vault",
       description: language === 'pt' ? "Gerador automático de senhas ultra-seguras + RBAC granular" : "Auto ultra-secure password generator + granular RBAC",
       details: language === 'pt' ? 
-        "Acabe com senhas fracas e reutilizadas. Nossa IA gera senhas inquebráveis, as armazena com criptografia militar AES-256, e permite compartilhamento seguro entre equipes com controles de acesso baseados em função. Integração nativa com SSO e 2FA obrigatório." :
-        "End weak and reused passwords. Our AI generates unbreakable passwords, stores them with military-grade AES-256 encryption, and enables secure team sharing with role-based access controls. Native SSO integration and mandatory 2FA."
+        "Acabe com senhas fracas e reutilizadas. Armazenamento com criptografia AES-256, e permite compartilhamento seguro entre equipes com controles de acesso baseados em função. Integração nativa com SSO e 2FA obrigatório." :
+        "Eliminate weak and reused passwords. AES-256 encrypted storage enables secure sharing across teams with role-based access controls. Native integration with SSO and mandatory 2FA."
     },
     {
       id: 'storage', 
       icon: <Database className="w-6 h-6" />,
-      title: language === 'pt' ? "Cofre de Documentos Críticos" : "Critical Document Vault",
+      title: language === 'pt' ? "Cofre de documentos críticos" : "Critical document vault",
       description: language === 'pt' ? "Contratos, certidões, backups - tudo criptografado e organizável" : "Contracts, certificates, backups - all encrypted and organizable",
       details: language === 'pt' ?
-        "Transforme o caos de documentos em um sistema organizizado. Upload arrastar-e-soltar, categorização inteligente com IA, busca instantânea por conteúdo, versionamento automático e backup em 3 datacenters brasileiros. Acesso granular por equipe/projeto com logs detalhados." :
-        "Transform document chaos into an organized system. Drag-and-drop upload, AI-powered smart categorization, instant content search, automatic versioning, and backup across 3 Brazilian datacenters. Granular team/project access with detailed logs."
+        "Transforme o caos de documentos em um sistema organizizado. Upload arrastar-e-soltar, categorização inteligente, busca instantânea por conteúdo, versionamento automático e backup em 3 datacenters brasileiros. Acesso granular por equipe/projeto com logs detalhados." :
+        "Transform document chaos into an organized system. Drag-and-drop upload, smart categorization, instant content search, automatic versioning, and backup across 3 Brazilian datacenters. Granular team/project access with detailed logs."
     },
     {
       id: 'access',
       icon: <Users className="w-6 h-6" />,
-      title: language === 'pt' ? "Controle de Acesso Zero-Trust" : "Zero-Trust Access Control", 
+      title: language === 'pt' ? "Controle de acesso Zero-Trust" : "Zero-Trust access control", 
       description: language === 'pt' ? "Dashboards em tempo real + provisionamento/desprovisionamento automático" : "Real-time dashboards + automatic provisioning/deprovisioning",
       details: language === 'pt' ?
         "Visibilidade completa de quem acessa o quê, quando e de onde. Integração com seu Active Directory/Google Workspace, provisionamento instantâneo para novos colaboradores, revogação automática na saída, e alertas em tempo real para comportamentos suspeitos. Dashboard executivo com métricas de segurança." :
@@ -159,21 +159,21 @@ const SafeCloudBilingual = () => {
     {
       id: 'compliance',
       icon: <FileText className="w-6 h-6" />,
-      title: language === 'pt' ? "Automação LGPD Completa" : "Complete LGPD Automation",
+      title: language === 'pt' ? "Automação LGPD completa" : "Complete LGPD automation",
       description: language === 'pt' ? "Relatórios automáticos + gestão de consentimentos + right to be forgotten" : "Automatic reports + consent management + right to be forgotten",
       details: language === 'pt' ?
-        "Nunca mais perca noites de sono com LGPD. Mapeamento automático de dados pessoais, gestão completa de consentimentos, relatórios de impacto automáticos, procedimentos de vazamento pré-configurados, e implementação completa do 'direito ao esquecimento'. Relatórios prontos para auditoria em 1 clique." :
-        "Never lose sleep over LGPD again. Automatic personal data mapping, complete consent management, automatic impact reports, pre-configured breach procedures, and complete 'right to be forgotten' implementation. Audit-ready reports in 1 click."
+        "Mapeamento automático de dados pessoais, gestão completa de consentimentos, relatórios de impacto automáticos, procedimentos de vazamento pré-configurados, e implementação completa do 'direito ao esquecimento'. Relatórios prontos para auditoria em 1 clique." :
+        "Automatic personal data mapping, complete consent management, automatic impact reports, pre-configured breach procedures, and complete 'right to be forgotten' implementation. Audit-ready reports in 1 click."
     }
   ];
 
   const techStack = [
     {
-      item: "Backend: Node.js + PostgreSQL",
+      item: "Backend: Java e PostgreSQL",
       detail: language === 'pt' ? "API REST robusta com autenticação JWT e rate limiting" : "Robust REST API with JWT auth and rate limiting"
     },
     {
-      item: "Frontend: React + TypeScript", 
+      item: "Frontend: React e TypeScript", 
       detail: language === 'pt' ? "Interface moderna e responsiva com PWA support" : "Modern responsive interface with PWA support"
     },
     {
@@ -313,10 +313,10 @@ const SafeCloudBilingual = () => {
             {t.problem.items.map((item, index) => (
               <div key={index} className="bg-white rounded-lg p-6 shadow-sm border">
                 <div className={`w-12 h-12 rounded-lg flex items-center justify-center mb-4 ${
-                  index === 0 ? 'bg-red-100' : index === 1 ? 'bg-yellow-100' : 'bg-blue-100'
+                  index === 0 ? 'bg-blue-100' : index === 1 ? 'bg-blue-100' : 'bg-blue-100'
                 }`}>
-                  {index === 0 && <Settings className="w-6 h-6 text-red-600" />}
-                  {index === 1 && <Eye className="w-6 h-6 text-yellow-600" />}
+                  {index === 0 && <Settings className="w-6 h-6 text-blue-600" />}
+                  {index === 1 && <Eye className="w-6 h-6 text-blue-600" />}
                   {index === 2 && <BarChart3 className="w-6 h-6 text-blue-600" />}
                 </div>
                 <h3 className="text-lg font-semibold text-gray-900 mb-3">{item}</h3>
@@ -332,7 +332,7 @@ const SafeCloudBilingual = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
             <h2 className="text-3xl font-bold text-gray-900 mb-4">
-              {language === 'pt' ? 'Principais Funcionalidades' : 'Core Features'}
+              {language === 'pt' ? 'Principais funcionalidades' : 'Core features'}
             </h2>
             <p className="text-lg text-gray-600 max-w-3xl mx-auto">
               {language === 'pt' ? 
@@ -431,7 +431,7 @@ const SafeCloudBilingual = () => {
               <div className="space-y-6">
                 <div>
                   <h3 className="text-xl font-semibold text-gray-900 mb-3">
-                    {language === 'pt' ? 'A História' : 'The Story'}
+                    {language === 'pt' ? 'Objetivo do projeto' : 'Project objective'}
                   </h3>
                   <p className="text-gray-600 leading-relaxed">{t.about.story}</p>
                 </div>
@@ -459,7 +459,7 @@ const SafeCloudBilingual = () => {
                 </ul>
 
                 {/* Credenciais */}
-                <div className="mt-8 pt-6 border-t border-gray-200">
+                {/* <div className="mt-8 pt-6 border-t border-gray-200">
                   <h4 className="text-lg font-semibold text-gray-900 mb-3">{t.about.whyTrust}</h4>
                   <ul className="space-y-2">
                     {t.about.credentials?.map((credential, index) => (
@@ -469,7 +469,7 @@ const SafeCloudBilingual = () => {
                       </li>
                     ))}
                   </ul>
-                </div>
+                </div> */}
               </div>
             </div>
           </div>
@@ -482,45 +482,36 @@ const SafeCloudBilingual = () => {
           <h2 className="text-3xl font-bold text-white mb-6">{t.cta.title}</h2>
           <p className="text-xl text-blue-100 mb-8 leading-relaxed">{t.cta.description}</p>
           
-          {/* Benefits List */}
-          <div className="bg-white/10 rounded-lg p-6 mb-8 text-left max-w-2xl mx-auto">
-            <h3 className="text-lg font-semibold text-white mb-4">{t.cta.benefits}</h3>
-            <ul className="space-y-3">
-              {t.cta.benefitsList.map((benefit, index) => (
-                <li key={index} className="flex items-center space-x-3">
-                  <CheckCircle className="w-5 h-5 text-green-300 flex-shrink-0" />
-                  <span className="text-blue-100 text-sm">{benefit}</span>
-                </li>
-              ))}
-            </ul>
-          </div>
-          
-          <div className="max-w-md mx-auto flex gap-4 mb-6">
-            <input
-              type="email"
-              value={email}
-              onChange={(e) => setEmail(e.target.value)}
-              placeholder="empresa@dominio.com"
-              className="flex-1 px-4 py-3 rounded text-gray-900 focus:outline-none focus:ring-2 focus:ring-white/50"
-            />
-            <button 
-              onClick={handleEmailSubmit}
-              className="bg-white text-blue-600 hover:bg-gray-100 px-6 py-3 rounded font-medium transition-colors"
-            >
-              {language === 'pt' ? 'Candidatar-se' : 'Apply Now'}
-            </button>
-          </div>
+       <form 
+      action="https://formspree.io/f/xovlpwvd" // substitua pelo seu endpoint
+      method="POST"
+      className="max-w-md mx-auto flex gap-4 mb-6"
+    >
+      <input
+        type="email"
+        name="email"
+        required
+        placeholder="empresa@dominio.com"
+        className="flex-1 px-4 py-3 rounded text-gray-900 focus:outline-none focus:ring-2 focus:ring-white/50"
+      />
+      <button
+        type="submit"
+        className="bg-white text-blue-600 hover:bg-gray-100 px-6 py-3 rounded font-medium transition-colors"
+      >
+        {language === 'pt' ? 'Enviar' : 'Send'}
+      </button>
+    </form>
           
           <p className="text-blue-100 text-sm mb-8">{t.cta.disclaimer}</p>
 
           <div className="flex justify-center space-x-6">
-            <a href="mailto:contato@safecloud.com" className="text-white hover:text-blue-200 transition-colors">
+            <a href="mailto:miriamachado.dev@gmail.com" className="text-white hover:text-blue-200 transition-colors">
               <Mail className="w-6 h-6" />
             </a>
-            <a href="#" className="text-white hover:text-blue-200 transition-colors">
+            <a href="https://github.com/mirimachado" className="text-white hover:text-blue-200 transition-colors">
               <Github className="w-6 h-6" />
             </a>
-            <a href="#" className="text-white hover:text-blue-200 transition-colors">
+            <a href="https://www.linkedin.com/in/miri%C3%A3-machado-de-camargo-4a6a26206/" className="text-white hover:text-blue-200 transition-colors">
               <Linkedin className="w-6 h-6" />
             </a>
           </div>
@@ -538,8 +529,8 @@ const SafeCloudBilingual = () => {
           </div>
           <p className="text-gray-400 text-sm">
             {language === 'pt' ? 
-              '© 2025 SafeCloud Manager. Em desenvolvimento • Lançamento previsto Q2 2025' :
-              '© 2025 SafeCloud Manager. In development • Expected launch Q2 2025'
+              '© 2025 SafeCloud Manager. Em desenvolvimento' :
+              '© 2025 SafeCloud Manager. In development'
             }
           </p>
         </div>
